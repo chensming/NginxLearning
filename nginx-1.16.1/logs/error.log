@@ -1,0 +1,244 @@
+2020/01/28 23:31:04 [notice] 7296#2192: signal process started
+2020/01/28 23:31:08 [notice] 3960#1264: signal process started
+2020/01/28 23:31:08 [error] 3960#1264: CreateFile() "E:\2020backend\nginx-1.16.1/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/01/28 23:40:09 [notice] 1384#7224: signal process started
+2020/01/28 23:40:09 [error] 1384#7224: CreateFile() "E:\2020backend\nginx-1.16.1/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/01/28 23:40:26 [notice] 4804#5512: signal process started
+2020/01/28 23:40:30 [notice] 2212#5584: signal process started
+2020/01/29 00:03:38 [error] 4176#7440: *1 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2020/01/29 00:04:42 [error] 4176#7440: *2 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.0.5, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.0.5:8080"
+2020/01/29 00:05:21 [error] 4176#7440: *4 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.0.8, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.0.5:8080"
+2020/01/29 00:07:09 [notice] 4108#7648: signal process started
+2020/01/29 00:08:51 [error] 4340#3032: *1 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.0.8, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.0.5:8080"
+2020/01/29 00:09:33 [notice] 1360#5544: signal process started
+2020/01/29 21:48:25 [error] 5924#948: *1 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/29 21:57:11 [notice] 4488#7928: signal process started
+2020/01/29 21:57:13 [error] 7940#3960: *2 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.0.9, server: , request: "GET /favicon.ico HTTP/1.1", host: "192.168.0.9:8080"
+2020/01/29 21:57:47 [notice] 6252#6260: signal process started
+2020/01/29 22:25:51 [notice] 6764#6708: signal process started
+2020/01/29 22:30:55 [notice] 5540#1184: signal process started
+2020/01/29 22:31:56 [notice] 6568#7864: signal process started
+2020/01/29 22:32:51 [notice] 7564#7636: signal process started
+2020/01/29 22:32:55 [notice] 8068#7476: signal process started
+2020/01/29 22:45:28 [notice] 6448#7996: signal process started
+2020/01/29 22:54:43 [notice] 6184#7720: signal process started
+2020/01/29 22:59:40 [emerg] 7160#4420: directive "include" is not terminated by ";" in E:\2020backend\nginx-1.16.1/conf/nginx.conf:33
+2020/01/29 22:59:51 [notice] 3828#5880: signal process started
+2020/01/29 23:01:11 [notice] 4480#7900: signal process started
+2020/01/29 23:28:36 [error] 1000#2556: *1 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/29 23:29:23 [notice] 700#6020: signal process started
+2020/01/29 23:30:04 [notice] 3272#3444: signal process started
+2020/01/29 23:30:47 [error] 228#1048: *6 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.0", host: "127.0.0.1"
+2020/01/29 23:32:58 [error] 228#1048: *11 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.0", host: "127.0.0.1"
+2020/01/29 23:34:17 [error] 228#1048: *12 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 192.168.0.9, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "192.168.0.9:8080"
+2020/01/29 23:34:23 [error] 228#1048: *17 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.0", host: "192.168.0.9"
+2020/01/29 23:36:23 [notice] 3188#2576: signal process started
+2020/01/30 18:28:40 [error] 672#4408: *1 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 18:28:51 [error] 672#4408: *1 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/500.html" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /500.html HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 18:44:19 [error] 672#4408: *2 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 18:44:27 [error] 672#4408: *2 directory index of "E:\2020backend\nginx-1.16.1/dlib/test/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /test/ HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 18:44:27 [error] 672#4408: *2 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 18:44:49 [error] 672#4408: *3 directory index of "E:\2020backend\nginx-1.16.1/dlib/test/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /test/ HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 18:44:49 [error] 672#4408: *3 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 18:45:28 [notice] 4352#6596: signal process started
+2020/01/30 18:45:35 [error] 672#4408: *4 directory index of "E:\2020backend\nginx-1.16.1/dlib/test/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /test/ HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 18:45:35 [error] 672#4408: *4 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 18:45:36 [error] 672#4408: *5 directory index of "E:\2020backend\nginx-1.16.1/dlib/test/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /test/ HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 18:46:05 [notice] 6820#6756: signal process started
+2020/01/30 18:46:07 [error] 672#4408: *5 directory index of "E:\2020backend\nginx-1.16.1/dlib/test/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /test/ HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 18:46:07 [error] 672#4408: *5 directory index of "E:\2020backend\nginx-1.16.1/dlib/test/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /test/ HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 18:46:08 [error] 672#4408: *5 directory index of "E:\2020backend\nginx-1.16.1/dlib/test/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /test/ HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 18:46:08 [error] 672#4408: *5 directory index of "E:\2020backend\nginx-1.16.1/dlib/test/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /test/ HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 18:48:47 [notice] 8184#4464: signal process started
+2020/01/30 23:08:52 [emerg] 4592#6188: invalid value "/" in E:\2020backend\nginx-1.16.1/conf/nginx.conf:96
+2020/01/30 23:09:12 [error] 672#4408: *6 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/aaa" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /aaa HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 23:09:12 [error] 672#4408: *6 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 23:09:55 [emerg] 8088#5216: invalid value "/" in E:\2020backend\nginx-1.16.1/conf/nginx.conf:96
+2020/01/30 23:10:03 [emerg] 5760#908: invalid value "/" in E:\2020backend\nginx-1.16.1/conf/nginx.conf:96
+2020/01/30 23:10:35 [emerg] 4736#1028: invalid value "/" in E:\2020backend\nginx-1.16.1/conf/nginx.conf:96
+2020/01/30 23:10:52 [emerg] 208#7288: invalid value "/" in E:\2020backend\nginx-1.16.1/conf/nginx.conf:96
+2020/01/30 23:11:18 [notice] 6940#6932: signal process started
+2020/01/30 23:11:18 [error] 6940#6932: CreateFile() "E:\2020backend\nginx-1.16.1/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/01/30 23:11:42 [notice] 8020#5432: signal process started
+2020/01/30 23:11:42 [error] 8020#5432: CreateFile() "E:\2020backend\nginx-1.16.1/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/01/30 23:11:46 [notice] 4660#7980: signal process started
+2020/01/30 23:11:46 [error] 4660#7980: CreateFile() "E:\2020backend\nginx-1.16.1/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/01/30 23:12:07 [notice] 6960#4104: signal process started
+2020/01/30 23:12:11 [error] 672#4408: *7 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/aaa" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /aaa HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 23:12:12 [error] 672#4408: *7 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/aaa" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /aaa HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 23:12:12 [error] 672#4408: *7 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/aaa" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /aaa HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 23:12:13 [error] 672#4408: *7 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/aaa" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /aaa HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 23:12:13 [error] 672#4408: *7 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/aaa" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /aaa HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 23:12:34 [notice] 6448#6528: signal process started
+2020/01/30 23:12:38 [error] 672#4408: *7 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/aaa" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /aaa HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 23:12:39 [error] 672#4408: *7 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/aaa" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /aaa HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 23:12:39 [error] 672#4408: *7 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/aaa" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /aaa HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 23:12:39 [error] 672#4408: *7 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/aaa" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /aaa HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 23:12:56 [error] 672#4408: *7 directory index of "E:\2020backend\nginx-1.16.1/dlib/test/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /test/ HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 23:13:17 [error] 672#4408: *7 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/jkl" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /jkl HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 23:17:18 [notice] 8156#2128: signal process started
+2020/01/30 23:17:44 [error] 672#4408: *8 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/hhh" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hhh HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 23:18:23 [notice] 7336#6136: signal process started
+2020/01/30 23:18:27 [error] 672#4408: *8 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/hhh" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hhh HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 23:18:28 [error] 672#4408: *8 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/hhh" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hhh HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 23:21:16 [notice] 6968#6244: signal process started
+2020/01/30 23:21:24 [error] 672#4408: *9 directory index of "E:\2020backend\nginx-1.16.1/dlib/test/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /test/ HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 23:27:24 [notice] 6744#3892: signal process started
+2020/01/30 23:27:34 [error] 672#4408: *10 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 23:27:42 [error] 672#4408: *11 directory index of "E:\2020backend\nginx-1.16.1/dlib/test/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /test/ HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 23:27:59 [notice] 3812#6104: signal process started
+2020/01/30 23:28:04 [error] 672#4408: *11 directory index of "E:\2020backend\nginx-1.16.1/dlib/test/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /test/ HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 23:28:29 [notice] 6156#7968: signal process started
+2020/01/30 23:28:40 [notice] 5540#3212: signal process started
+2020/01/30 23:28:57 [error] 672#4408: *11 directory index of "E:\2020backend\nginx-1.16.1/dlib/test/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /test/ HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 23:29:14 [error] 672#4408: *11 directory index of "E:\2020backend\nginx-1.16.1/dlib/test/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /test/ HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 23:29:15 [error] 672#4408: *11 directory index of "E:\2020backend\nginx-1.16.1/dlib/test/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /test/ HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 23:29:16 [error] 672#4408: *11 directory index of "E:\2020backend\nginx-1.16.1/dlib/test/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /test/ HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 23:29:43 [error] 672#4408: *11 directory index of "E:\2020backend\nginx-1.16.1/dlib/test/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /test/ HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 23:29:48 [error] 672#4408: *11 directory index of "E:\2020backend\nginx-1.16.1/dlib/test/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET /test/ HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/30 23:30:08 [notice] 1100#4612: signal process started
+2020/01/30 23:33:22 [error] 672#4408: *12 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/myCSS" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /myCSS HTTP/1.1", host: "127.0.0.1:8080", referrer: "http://127.0.0.1:8080/"
+2020/01/30 23:33:28 [notice] 7796#7996: signal process started
+2020/01/30 23:33:31 [error] 672#4408: *12 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/myCSS" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /myCSS HTTP/1.1", host: "127.0.0.1:8080", referrer: "http://127.0.0.1:8080/"
+2020/01/30 23:33:31 [error] 672#4408: *12 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/myCSS" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /myCSS HTTP/1.1", host: "127.0.0.1:8080", referrer: "http://127.0.0.1:8080/"
+2020/01/30 23:33:32 [error] 672#4408: *12 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/myCSS" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /myCSS HTTP/1.1", host: "127.0.0.1:8080", referrer: "http://127.0.0.1:8080/"
+2020/01/30 23:34:51 [notice] 3580#2376: signal process started
+2020/01/30 23:37:02 [emerg] 656#8136: invalid return code "1000" in E:\2020backend\nginx-1.16.1/conf/nginx.conf:85
+2020/01/30 23:37:15 [notice] 5092#668: signal process started
+2020/01/30 23:39:32 [notice] 4864#5344: signal process started
+2020/01/31 20:15:21 [error] 4496#4108: *1 CreateFile() "E:\2020backend\nginx-1.16.1/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1"
+2020/01/31 20:15:29 [error] 4496#4108: *2 CreateFile() "E:\2020backend\nginx-1.16.1/html/hah" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hah HTTP/1.1", host: "127.0.0.1"
+2020/01/31 20:17:48 [emerg] 4148#5576: invalid value "/50x.html," in E:\2020backend\nginx-1.16.1/conf/nginx.conf:52
+2020/01/31 20:19:05 [notice] 3336#5360: signal process started
+2020/01/31 20:19:08 [error] 5148#5412: *3 CreateFile() "E:\2020backend\nginx-1.16.1/html/hah" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hah HTTP/1.1", host: "127.0.0.1"
+2020/01/31 20:19:46 [error] 5148#5412: *3 CreateFile() "E:\2020backend\nginx-1.16.1/html/hah" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /hah HTTP/1.1", host: "127.0.0.1"
+2020/01/31 20:20:21 [notice] 4844#5056: signal process started
+2020/01/31 20:21:30 [notice] 5748#2228: signal process started
+2020/01/31 20:26:44 [error] 4384#5728: *10 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/test//hhh" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /test/hhh HTTP/1.1", host: "127.0.0.1"
+2020/01/31 20:27:22 [error] 4384#5728: *10 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/test//hhh" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /test/hhh HTTP/1.1", host: "127.0.0.1"
+2020/01/31 20:34:54 [notice] 6760#6772: signal process started
+2020/01/31 20:36:57 [emerg] 3028#6076: invalid host in upstream "127.0.0.1:3000/demo" in E:\2020backend\nginx-1.16.1/conf/nginx.conf:33
+2020/01/31 20:37:29 [emerg] 7444#7436: invalid host in upstream "127.0.0.1:3000/demo" in E:\2020backend\nginx-1.16.1/conf/nginx.conf:33
+2020/01/31 20:38:09 [emerg] 6652#7532: "alias" directive is not allowed here in E:\2020backend\nginx-1.16.1/conf/nginx.conf:33
+2020/01/31 20:38:18 [notice] 7504#7508: signal process started
+2020/01/31 20:38:18 [error] 7504#7508: CreateFile() "E:\2020backend\nginx-1.16.1/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/01/31 20:43:37 [notice] 6672#6512: signal process started
+2020/01/31 20:45:38 [error] 6848#6928: *18 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 20:45:44 [error] 6848#6928: *19 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 20:47:40 [notice] 6588#6228: signal process started
+2020/01/31 20:47:50 [error] 6732#6092: *24 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: myserver, request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 20:48:39 [notice] 7620#7364: signal process started
+2020/01/31 20:52:43 [error] 6692#7268: *35 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost:8080"
+2020/01/31 20:57:53 [notice] 7944#6628: signal process started
+2020/01/31 20:58:34 [notice] 2196#5532: signal process started
+2020/01/31 22:39:14 [notice] 4908#2992: signal process started
+2020/01/31 22:53:01 [notice] 4428#6124: signal process started
+2020/01/31 23:07:19 [notice] 6912#6924: signal process started
+2020/01/31 23:07:44 [error] 7196#2228: *45 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:07:46 [error] 7196#2228: *45 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:07:47 [error] 7196#2228: *45 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:07:48 [error] 7196#2228: *45 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:07:49 [error] 7196#2228: *45 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:07:50 [error] 7196#2228: *45 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:08:02 [error] 7196#2228: *45 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:08:04 [error] 7196#2228: *45 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:08:05 [error] 7196#2228: *45 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:08:06 [error] 7196#2228: *45 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:08:07 [error] 7196#2228: *45 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:08:08 [error] 7196#2228: *45 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:08:10 [error] 7196#2228: *45 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:08:14 [error] 7196#2228: *45 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:08:16 [error] 7196#2228: *45 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:08:17 [error] 7196#2228: *45 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:08:18 [error] 7196#2228: *45 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:08:19 [error] 7196#2228: *45 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:08:20 [error] 7196#2228: *45 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:08:20 [error] 7196#2228: *45 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:08:58 [error] 7196#2228: *45 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:08:59 [error] 7196#2228: *45 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:09:00 [error] 7196#2228: *45 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:10:19 [emerg] 6520#6484: invalid parameter "weight" in E:\2020backend\nginx-1.16.1/conf/nginx.conf:33
+2020/01/31 23:10:46 [emerg] 6916#8144: invalid parameter "=" in E:\2020backend\nginx-1.16.1/conf/nginx.conf:33
+2020/01/31 23:12:06 [emerg] 6684#6944: unknown directive "weight" in E:\2020backend\nginx-1.16.1/conf/nginx.conf:33
+2020/01/31 23:12:40 [error] 7196#2228: *95 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:12:41 [error] 7196#2228: *95 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:12:42 [error] 7196#2228: *95 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:12:44 [error] 7196#2228: *95 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:12:50 [error] 7196#2228: *95 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:12:52 [error] 7196#2228: *95 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:12:54 [error] 7196#2228: *95 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:13:01 [error] 7196#2228: *95 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:13:02 [error] 7196#2228: *95 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:13:03 [error] 7196#2228: *95 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:13:05 [error] 7196#2228: *95 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:13:29 [error] 7196#2228: *95 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:13:30 [error] 7196#2228: *95 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:13:31 [error] 7196#2228: *95 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:13:36 [error] 7196#2228: *95 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:13:38 [error] 7196#2228: *95 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:13:38 [error] 7196#2228: *95 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:13:40 [error] 7196#2228: *95 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:13:41 [error] 7196#2228: *95 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:14:33 [notice] 7424#7152: signal process started
+2020/01/31 23:14:37 [error] 7408#7392: *132 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:14:38 [error] 7408#7392: *132 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:14:40 [error] 7408#7392: *132 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:14:45 [error] 7408#7392: *132 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:14:48 [error] 7408#7392: *132 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:14:49 [error] 7408#7392: *132 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:14:49 [error] 7408#7392: *132 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:14:50 [error] 7408#7392: *132 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:15:14 [emerg] 4140#6416: invalid parameter "weight" in E:\2020backend\nginx-1.16.1/conf/nginx.conf:34
+2020/01/31 23:17:05 [notice] 820#4112: signal process started
+2020/01/31 23:17:09 [error] 6896#2920: *152 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:17:10 [error] 6896#2920: *152 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:17:10 [error] 6896#2920: *152 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:17:11 [error] 6896#2920: *152 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:17:12 [error] 6896#2920: *152 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:17:28 [notice] 4900#7604: signal process started
+2020/01/31 23:17:35 [error] 6488#7680: *162 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:17:36 [error] 6488#7680: *162 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:17:37 [error] 6488#7680: *162 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:17:38 [error] 6488#7680: *162 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:17:39 [error] 6488#7680: *162 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:17:40 [error] 6488#7680: *162 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:17:41 [error] 6488#7680: *162 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:17:42 [error] 6488#7680: *162 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:17:43 [error] 6488#7680: *162 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:17:44 [error] 6488#7680: *162 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:18:22 [notice] 7688#5068: signal process started
+2020/01/31 23:18:28 [error] 6780#6584: *194 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:19:36 [notice] 7552#7632: signal process started
+2020/01/31 23:19:42 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:19:42 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:19:43 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:19:44 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:19:45 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:19:45 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:19:46 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:19:47 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:19:47 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:19:48 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:19:49 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:19:50 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:19:51 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:19:52 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:19:53 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:19:56 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:19:58 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:19:59 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:20:00 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:20:01 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:20:01 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:20:03 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:20:04 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:20:05 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:20:05 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:20:06 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:20:06 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:20:07 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:20:07 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:20:39 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:20:40 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:20:41 [error] 7940#6460: *209 CreateFile() "E:\2020backend\nginx-1.16.1/dlib/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:8080"
+2020/01/31 23:21:54 [notice] 6968#5200: signal process started
