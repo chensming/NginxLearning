@@ -1,0 +1,30 @@
+2020/01/31 20:52:20 [notice] 7508#6260: signal process started
+2020/01/31 20:52:27 [error] 5832#7292: *3 CreateFile() "E:\2020backend\nginx2\nginx2/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1:9000"
+2020/01/31 20:57:11 [notice] 5804#1344: signal process started
+2020/01/31 20:58:05 [error] 3624#2052: *5 CreateFile() "E:\2020backend\nginx2\nginx2/dlib/proxy" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /proxy HTTP/1.0", host: "127.0.0.1"
+2020/01/31 20:58:41 [notice] 2700#2528: signal process started
+2020/01/31 22:39:29 [error] 5572#5516: *2 "E:\2020backend\nginx2\nginx2/dlib/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /proxy/ HTTP/1.0", host: "127.0.0.1"
+2020/01/31 22:41:16 [error] 5572#5516: *3 "E:\2020backend\nginx2\nginx2/dlib/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /proxy/ HTTP/1.0", host: "127.0.0.1"
+2020/01/31 22:41:17 [error] 5572#5516: *4 "E:\2020backend\nginx2\nginx2/dlib/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /proxy/ HTTP/1.0", host: "127.0.0.1"
+2020/01/31 22:41:23 [error] 5572#5516: *5 CreateFile() "E:\2020backend\nginx2\nginx2/dlib/hfdj" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hfdj HTTP/1.1", host: "127.0.0.1:9000"
+2020/01/31 22:41:26 [error] 5572#5516: *5 CreateFile() "E:\2020backend\nginx2\nginx2/dlib/hfdj" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hfdj HTTP/1.1", host: "127.0.0.1:9000"
+2020/01/31 22:41:49 [notice] 2916#2148: signal process started
+2020/01/31 22:41:52 [error] 3392#4512: *6 CreateFile() "E:\2020backend\nginx2\nginx2/dlib/hfdj" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hfdj HTTP/1.1", host: "127.0.0.1:9000"
+2020/01/31 22:41:57 [error] 3392#4512: *7 "E:\2020backend\nginx2\nginx2/dlib/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /proxy/ HTTP/1.0", host: "127.0.0.1"
+2020/01/31 22:41:58 [error] 3392#4512: *8 "E:\2020backend\nginx2\nginx2/dlib/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /proxy/ HTTP/1.0", host: "127.0.0.1"
+2020/01/31 22:41:59 [error] 3392#4512: *9 "E:\2020backend\nginx2\nginx2/dlib/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /proxy/ HTTP/1.0", host: "127.0.0.1"
+2020/01/31 22:42:01 [error] 3392#4512: *6 CreateFile() "E:\2020backend\nginx2\nginx2/dlib/hfdj" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hfdj HTTP/1.1", host: "127.0.0.1:9000"
+2020/01/31 22:42:03 [error] 3392#4512: *10 "E:\2020backend\nginx2\nginx2/dlib/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /proxy/ HTTP/1.0", host: "127.0.0.1"
+2020/01/31 22:43:00 [error] 3392#4512: *11 "E:\2020backend\nginx2\nginx2/dlib/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /proxy/ HTTP/1.0", host: "127.0.0.1"
+2020/01/31 22:43:00 [error] 3392#4512: *12 "E:\2020backend\nginx2\nginx2/dlib/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /proxy/ HTTP/1.0", host: "127.0.0.1"
+2020/01/31 22:43:02 [error] 3392#4512: *6 CreateFile() "E:\2020backend\nginx2\nginx2/dlib/hfdj" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hfdj HTTP/1.1", host: "127.0.0.1:9000"
+2020/01/31 22:43:03 [error] 3392#4512: *13 "E:\2020backend\nginx2\nginx2/dlib/proxy/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /proxy/ HTTP/1.0", host: "127.0.0.1"
+2020/01/31 22:43:14 [notice] 768#4704: signal process started
+2020/01/31 22:43:18 [error] 788#1340: *16 CreateFile() "E:\2020backend\nginx2\nginx2/html/hfdj" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hfdj HTTP/1.1", host: "127.0.0.1:9000"
+2020/01/31 22:43:20 [error] 788#1340: *16 CreateFile() "E:\2020backend\nginx2\nginx2/html/hfdj" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hfdj HTTP/1.1", host: "127.0.0.1:9000"
+2020/01/31 22:45:36 [notice] 492#4044: signal process started
+2020/01/31 22:51:43 [error] 5080#4872: *1 CreateFile() "E:\2020backend\nginxUpsteramGroup\nginx2/dlib//f" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /proxy/f HTTP/1.1", host: "127.0.0.1:9000"
+2020/01/31 22:53:13 [error] 5080#4872: *5 CreateFile() "E:\2020backend\nginxUpsteramGroup\nginx2/dlib//56" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /proxy2/56 HTTP/1.0", host: "127.0.0.1"
+2020/01/31 22:53:47 [error] 5080#4872: *6 CreateFile() "E:\2020backend\nginxUpsteramGroup\nginx2/dlib//56" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /proxy2/56 HTTP/1.0", host: "127.0.0.1"
+2020/01/31 23:08:54 [notice] 7548#7576: signal process started
+2020/01/31 23:21:29 [notice] 7616#7260: signal process started
